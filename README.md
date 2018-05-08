@@ -1,6 +1,8 @@
 # Big_Game
 Bài Tập lớn giữa kì 2 năm Nhất
 
+_ Cách cài đặt: Giải nén file rar rồi vào file đã giải nén rồi vào file exe để chơi.
+
 Bài tập lớn học kì hai năm nhất được thực hiện bởi sinh viên Trần Hồng Phúc có các nội dung sau:
 
 - Làm một trò chơi theo yêu cầu của thầy có tựa đề là Catch Egg bằng thư viện lập trình SDL 
